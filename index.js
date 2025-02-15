@@ -1,8 +1,5 @@
 let nomeheroi = ("Adam Carlsen");
-let xp = 2200;
-if (xp > 2000)
-
-let nivel = "Bronze";
+let nivel = "Ouro";
 
 if(xp > 1000){
     nivel = "Ferro";
@@ -22,4 +19,4 @@ if(xp > 1000){
     nivel = "Radiante";
 }
 
-console.log('O jogador ${nomeHeroi} está no nível ${nivel} com ${xp} de xp.');
+console.log('O jogador ${nomeHeroi} está no nível ${nivel} .');
