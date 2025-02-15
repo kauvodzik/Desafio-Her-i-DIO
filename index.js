@@ -1,4 +1,4 @@
-let nomeheroi = ("Adam Carlsen");
+let nomeHeroi = ("Adam Carlsen");
 let nivel = "Ouro";
 
 if(xp > 1000){
