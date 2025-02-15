@@ -22,4 +22,4 @@ if(xp > 1000){
     nivel = "Radiante";
 }
 
-console.log('O jogador ${nomeheroi} está no nível ${nivel} com ${xp} de xp.');
+console.log('O jogador ${nomeHeroi} está no nível ${nivel} com ${xp} de xp.');
